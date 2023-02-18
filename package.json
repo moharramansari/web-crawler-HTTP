@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "project for the learn HTTP, URL, URLS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moharramansari/web-crawler-HTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moharramansari/web-crawler-HTTP/issues"
+  },
+  "homepage": "https://github.com/moharramansari/web-crawler-HTTP#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
