@@ -19,5 +19,8 @@
   "homepage": "https://github.com/moharramansari/web-crawler-HTTP#readme",
   "devDependencies": {
     "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
   }
 }
