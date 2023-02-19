@@ -77,7 +77,7 @@ test('getURLsFromHTML both', () => {
     expect(actual).toEqual(expected)
 }) 
 
-test('getURLsFromHTML invlaid', () => {
+test('getURLsFromHTML invalid', () => {
     const inputHTMLBody = `
     <html>
     <body>
